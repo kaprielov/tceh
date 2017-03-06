@@ -1,0 +1,23 @@
+{
+  "name": "pmi2",
+  "description": "kaprielov develop",
+  "main": "index.js",
+  "authors": [
+    "kaprielov"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "bootstrap": "*"
+  }
+}
